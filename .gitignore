@@ -1,0 +1,14 @@
+# Ignore IntellijIdea project files
+.idea
+
+# Ignore all text files
+*.txt
+
+# Ignore intellijidea module config file
+*.iml
+
+# Ignore all compiled java files
+target
+
+# Ignore all compiled java files
+out

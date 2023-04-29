@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Cross Browser Test">
+    <test name="AmazonTest in Chrome">
+        <classes>
+            <class name="com.israt.amazon.AmazonAccountRegisterSigninOrder"></class>
+        </classes>
+    </test>
+</suite>

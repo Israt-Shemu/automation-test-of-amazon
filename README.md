@@ -1,2 +1,2 @@
-# automation-test-of-amazon
-Amazon Automation Test Using Selenium JAVA
+# Automation-Test-for-Amazon-by-Selenium-JAVA
+Automated Amazon.com
